@@ -1,5 +1,3 @@
-# LoopLAB #
-### Landing page for a social media type website ###
 # Project - LoopLAB #
 [LoopLAB](https://psyhedeliq.github.io/looplab/)  
 This is a landing page for a social media type website.
