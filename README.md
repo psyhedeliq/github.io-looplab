@@ -5,6 +5,7 @@
 This is a landing page for a social media type website.
 
 ## Getting Started ##
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Installing ###
@@ -28,6 +29,7 @@ Enjoy :)
 ```
 
 ## Build With ##
+
 * HTML5
 * CSS3
 * jQuery
