@@ -1,5 +1,7 @@
 # Project - LoopLAB #
+
 [LoopLAB](https://psyhedeliq.github.io/looplab/)  
+
 This is a landing page for a social media type website.
 
 ## Getting Started ##
@@ -7,23 +9,30 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing ###
 
-  1. Clone the repo  
+1. Clone the repo  
+
+```
+git clone https://github.com/psyhedeliq/looplab.git
+```
   
-    git clone https://github.com/psyhedeliq/looplab.git
+2. Open home file  
+
+```
+open index.html
+```
   
-  2. Open home file  
-  
-    open index.html 
-  
-  3. Explore  
-  
-    Enjoy :)
+3. Explore  
+
+```
+Enjoy :)
+```
 
 ## Build With ##
-  * HTML5
-  * CSS3
-  * jQuery
-  * Bootstrap
+* HTML5
+* CSS3
+* jQuery
+* Bootstrap
   
 ## Contributors ##
-  * Filip Cornel Cristian
+
+* **Filip Cornel Cristian**
